@@ -20,6 +20,11 @@ body {
   margin-left: 20px;
 }
 
+#search-box:focus,
+#search-box:hover {
+  outline-color: blue;
+}
+
 .country-list {
   margin-left: 20px;
   padding: 0;
